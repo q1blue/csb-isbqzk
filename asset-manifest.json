@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://q1blue.github.io/csb-isbqzk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://q1blue.github.io/csb-isbqzk/static/js/main.5fd392d2.chunk.js",
+    "main.js.map": "https://q1blue.github.io/csb-isbqzk/static/js/main.5fd392d2.chunk.js.map",
+    "runtime-main.js": "https://q1blue.github.io/csb-isbqzk/static/js/runtime-main.d4b835dc.js",
+    "runtime-main.js.map": "https://q1blue.github.io/csb-isbqzk/static/js/runtime-main.d4b835dc.js.map",
+    "static/js/2.5eabd170.chunk.js": "https://q1blue.github.io/csb-isbqzk/static/js/2.5eabd170.chunk.js",
+    "static/js/2.5eabd170.chunk.js.map": "https://q1blue.github.io/csb-isbqzk/static/js/2.5eabd170.chunk.js.map",
+    "index.html": "https://q1blue.github.io/csb-isbqzk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://q1blue.github.io/csb-isbqzk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5eabd170.chunk.js.LICENSE.txt": "https://q1blue.github.io/csb-isbqzk/static/js/2.5eabd170.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b835dc.js",
+    "static/js/2.5eabd170.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5fd392d2.chunk.js"
+  ]
+}
